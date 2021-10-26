@@ -1,0 +1,36 @@
+lighting custom
+"11 white kitchen.p2l"
+shadow 
+transparent 0 0 
+environment 
+showroom 
+north nonvisible nonreflective "Materials\plastic\high gloss\default plastic.p2m"
+without_mapping
+south nonvisible nonreflective "Materials\plastic\high gloss\default plastic.p2m"
+without_mapping
+east nonvisible nonreflective "Materials\plastic\high gloss\default plastic.p2m"
+without_mapping
+west nonvisible nonreflective "Materials\plastic\high gloss\default plastic.p2m"
+without_mapping
+ceiling nonvisible nonreflective "Materials\plastic\high gloss\default plastic.p2m"
+without_mapping
+floor visible nonreflective "Materials\miscellaneous\studio materials\shadow floor.p2m"
+without_mapping
+end_textures
+offset 0.0
+end_positions
+model xz_plane
+background
+plain
+color 1.000000 1.000000 1.000000 
+none 
+background_multiplier 1.000000
+background_environment 
+image "\images\textures\background\Kitchen.hdr" 
+spherical_env 
+environment_multipliers 1.0 0.74
+sw_scene_rotating_envmap 1
+pv_background_image_brightness 1.0 
+pv_rendering_brightness 2.0 
+pv_scene_reflectivity 2.000000 
+end 

@@ -1,0 +1,40 @@
+shader "top_name"  "top_mtl"  
+(
+	 "num_cols"  1 ,
+	 "illum"  "model_7.p2a" 
+)
+
+material "iii"  "swt_main_phen"  
+(
+	 "col1"  0.65 0.62 0.59 ,
+	 "pattern_scale"  0 ,
+	 "ambient_factor"  0 ,
+	 "diffuse_factor"  0.9 ,
+	 "specular_factor"  1 ,
+	 "specular_color"  0.992157 0.984314 0.984314 ,
+	 "exponent"  10 ,
+	 "reflectivity"  0 ,
+	 "mtl_ior"  1 ,
+	 "transparency"  0 ,
+	 "anisotropic_u"  0 ,
+	 "anisotropic_v"  0 ,
+	 "anisotropic_courseness"  0 ,
+	 "metallic_mix"  0 ,
+	 "metallic_roughness"  0.002 ,
+	 "metallic_scale"  0 ,
+	 "metallic_amplitude"  0 ,
+	 "metallic_flake_type"  0 ,
+	 "metallic_ior"  0 0 0 ,
+	 "metallic_color"  0 0 0 ,
+	 "ambience"  0.8 0.8 0.8 ,
+	 "amplitude"  0 ,
+	 "scale"  1e-006 ,
+	 "detail"  1 ,
+	 "sharpness"  1 ,
+	 "blend"  0 ,
+	 "radius"  0.02 ,
+	 "mode"  0 ,
+	 "decal_val"  0 0 0 ,
+	 "sw_shader" mattesteel
+)
+end material 

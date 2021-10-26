@@ -1,0 +1,23 @@
+color texture "bump_file_texture" "images\shaders\surfacefinish/plasticpolystyrene_normalmap.dds" 
+
+	 "swP2M"  on ,
+	 "num_cols"  1 ,
+	 "col1"  1 1 1 ,
+	 "diffuse_factor"  1 ,
+	 "specular_factor"  1 ,
+	 "specular_color"  0.898039 0.898039 0.898039 ,
+	 "roughness"  0.69 ,
+	 "reflectivity"  0 ,
+	 "mtl_ior"  1 ,
+	 "transparency"  0 ,
+	 "blurryReflections"  off ,
+	 "doubleSided"  off ,
+	 "refractionRoughness"  0 ,
+	 "luminousIntensity"  0 ,
+	 "bumpTexture"  "images\shaders\surfacefinish/PlasticPolystyrene_normalmap.dds" ,
+	 "bumpStrength"  7e-005 ,
+	 "displacementDistance"  7e-005 ,
+	 "SurfaceFinishShaderType"  0 ,
+	 "initTextureWidth"  0.00635 ,
+	 "initTextureHeight"  0.00635 ,
+	 "sw_shader"  PlasticPolystyrene 
