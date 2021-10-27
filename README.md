@@ -31,7 +31,7 @@ community can use, including:
     called “CAD_files” 
     * “Assembly_documentation.pdf”, this document details our prototype
     assembly process and learnings
-* Non assert patent pledge 
+* [Non assert patent pledge ](https://storage.googleapis.com/x-prod.appspot.com/files/H2E%20Patent%20Non-Assertion%20Pledge.pdf)
 
 Data and geospatial tools around access to safe drinking water are provided 
 here to aid academic reproducibility and advancement in the context of the 
